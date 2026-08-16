@@ -1,0 +1,6 @@
+{
+  "name": "Portal Pemesanan ATK GraPARI Telkomsel",
+  "description": "Sistem portal internal pengadaan dan pemesanan alat tulis kantor (ATK) untuk seluruh cabang GraPARI Telkomsel ke vendor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
